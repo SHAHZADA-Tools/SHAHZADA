@@ -7,5 +7,5 @@ cd SHAHZADA
 git clone https://github.com/SHAHZADA-Tools/SHAHZADA.git
 cd SHAHZADA
 ls
-gitpull
+git pull
 python clone.py
